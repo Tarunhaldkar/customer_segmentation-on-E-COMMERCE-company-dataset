@@ -4,6 +4,28 @@ ABSTRACT
 In this project segment the customers of an e-commerce company by using the RFM approach. This will enable the e-commerce company to optimize their retention and acquisition strategies.
 
 
+Here is this folder structure,
+1. dataset
+2. python file
+
+Technologies used in this project,
+1. Python
+2. Numpy and pandas for data cleaning
+3. Matplotlib and seaborn for data visualization
+4. sklearn for model building
+5. jupyter notebook 
+
+Steps doing in project 
+1. Import the library
+2. Read the data
+3. Perform EDA
+4. Data cleaning
+5. Feature Engineering
+6. Feature Scaling
+7. Use K-mean model for clustering
+8. Arange customer in high-level, medium-level and low-level 
+
+
 What is the RFM Model?
 The Recency, Frequency, & Monetary (RFM) Model is a classic analytics and segmentation tool for identifying your best customers. 
 RFM Model is a powerful way to identify group of customer for special treatment.
